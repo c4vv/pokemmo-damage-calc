@@ -34,6 +34,8 @@ base stat updates
     Leavanny's base Special Defence was increased from 70 to 80.
     Scolipede's base Attack was increased from 90 to 100.
     Krookodile's base Defence was increased from 70 to 80.
+    Cresselia's base Defence was decreased to 110.
+    Cresselia's base Special defence was decreased to 120.
 
     Arbok's base Attack was increased from 85 to 95.
     [x]Dugtrio's base Attack was increased from 80 to 100.
