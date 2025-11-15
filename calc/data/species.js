@@ -3053,7 +3053,7 @@ var DPP_PATCH = {
     },
     Cresselia: {
         types: ['Psychic'],
-        bs: { hp: 120, at: 70, df: 120, sa: 75, sd: 130, sp: 85 },
+        bs: { hp: 120, at: 70, df: 110, sa: 75, sd: 120, sp: 85 },
         weightkg: 85.6,
         abilities: { 0: 'Levitate' }
     },
